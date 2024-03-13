@@ -1,4 +1,4 @@
-# Go: File/Directory exists
+# Go: File / Directory exists
 
 # File 
 
